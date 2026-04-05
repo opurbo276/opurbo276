@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=opurbo276&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/opurbo276?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/opurbo276?style=for-the-badge&color=yellow" />
 </p>
 
 ---
@@ -22,9 +21,9 @@
 ---
 
 ## 🧠 Currently Leveling Up
-- 🔭 Building **AI/ML & real-world projects**
+- 🔭 Working on **AI/ML & real-world projects**
 - 🌱 Learning **Deep Learning, System Design & Scalable Apps**
-- 👯 Collaborating on **innovative tech & open-source**
+- 👯 Open to collaborate on **innovative tech & open-source**
 - ⚡ Exploring **research & impactful solutions**
 
 ---
@@ -40,7 +39,7 @@
 ## 🏆 Achievements
 🏅 Erasmus+ KA171 Exchange Program  
 🏅 Best Volunteer – DIU Job Utsob 2024  
-🏅 Best Volunteer (Most Active) - Volunteer Internship Program (VIP)
+🏅 Best Volunteer (Most Active)  
 
 ---
 
@@ -48,11 +47,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=opurbo276&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opurbo276&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opurbo276&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=opurbo276&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opurbo276&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -60,8 +62,10 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opurbo276&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opurbo276&theme=tokyo-night" />
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
