@@ -63,15 +63,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=opurbo276&theme=tokyo-night&hide_border=true" />
 </p>
 
----
-
-## 🧩 Featured Projects (Add Yours!)
-🚀 **AI Project** – Smart solution using Machine Learning  
-🌐 **Web App** – Modern responsive frontend project  
-📊 **Data Project** – Insights using Python & analytics  
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
