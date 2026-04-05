@@ -39,7 +39,7 @@
 ## 🏆 Achievements
 🏅 Erasmus+ KA171 Exchange Program  
 🏅 Best Volunteer – DIU Job Utsob 2024  
-🏅 Best Volunteer (Most Active)  
+🏅 Best Volunteer (Most Active) - Volunteer Internship Program (VIP)
 
 ---
 
